@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/Shishir_Sharma_CV.pdf";
+import pdf from "../pdf/Utsav_Paneru.pdf";
 import hero from "./data/hero.json";
 import Typed from "typed.js";
 import AOS from "aos";
@@ -34,7 +34,7 @@ const Home = () => {
           <h1 ref={typedRef}></h1>
         <a
           href={pdf}
-          download="Shishir_Sharma_CV.pdf"
+          download="Utsav_Paneru.pdf"
           className="btn btn-outline-warning my-3"
         >
           Download CV
