@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "/Website_Portfolio/assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "/Website_Portfolio/assets/skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "/Website_Portfolio/assets/skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "/Website_Portfolio/assets/skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "/Website_Portfolio/assets/skills/node.png"
+    },
+    {
+      "title":"Express",
+      "imageSrc":"/Website_Portfolio/assets/skills/express.png"
+    },
+   {
+      "title": "MongoDB",
+      "imageSrc": "/Website_Portfolio/assets/skills/mongodb.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "/Website_Portfolio/assets/skills/python.png"
+
+    }
+
+
+
+  ]

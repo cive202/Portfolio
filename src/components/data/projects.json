@@ -1,0 +1,44 @@
+[
+    {
+      "key": 1,
+      "title": "Guff Gaff",
+      "imageSrc": "https://static.vecteezy.com/system/resources/thumbnails/000/561/430/small/chat-05.jpg",
+      "description": "This is a project that I made to work with socket.io and React",
+      "source": "https://github.com/cive202/guff_gaff"
+    },
+    {
+      "key": 2,
+      "title": "Coders of Kathamandu",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Find_My_Friends.png",
+      "description": "This is a project made with python. First DATA-SCIENCE project.",
+      "source": "https://github.com/cive202/Coders_of_kathamandu"
+    },
+    {
+      "key": 3,
+      "title": "HERO HUB",
+      "imageSrc": "https://images.ctfassets.net/pb9c10pj4mh6/28y4ZW6haxruYVITI4SsJP/9569c7968072b45aa0a9431c89d2d6f1/Hero_hub_logo_white.png",
+      "description": "This is a project made with complete MERN STACK",
+      "source": "https://github.com/cive202/HERO_HUB"
+    },
+    {
+      "key": 4,
+      "title": "Spinning Cube",
+      "imageSrc": "https://preview.redd.it/terminal-screensaver-render-a-3d-spinning-cube-in-ascii-v0-afagef4lcgda1.gif?format=png8&s=6e1026a45c518f580246fc50d7df1b58764b394d",
+      "description": "This is a project made with complete C++.It is a terminal screensaver that renders a 3D spinning cube in ASCII.",
+      "source": "https://github.com/cive202/Spinning-Cube"
+    },
+    {
+      "key": 5,
+      "title": "Todo app",
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0QAKmj4y1hKCWHOjESOqXfYjL5O8U-JjaQ&s",
+      "description": "Typical-first Project. Just used simple to get my hands on bigger, new, and creative projects.",
+      "source": "https://github.com/cive202/Todo_app"
+    },
+    {
+      "key": 6,
+      "title": "Simon Game",
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIJB21XPL-6bDcUthffyetwyJhRruIyrVxg&s",
+      "description": "This is a project made with complete JavaScript to sharpen my logic on js",
+      "source": "https://github.com/cive202/Simon-Game"
+    }
+  ]
